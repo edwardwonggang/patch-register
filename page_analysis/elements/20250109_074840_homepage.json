@@ -1,0 +1,982 @@
+{
+  "buttons": [
+    {
+      "text": "Download",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "whitespace-nowrap",
+        "rounded-lg",
+        "uppercase",
+        "disabled:pointer-events-none",
+        "disabled:opacity-50",
+        "overflow-hidden",
+        "transition-colors",
+        "after:absolute",
+        "after:inset-0",
+        "motion-reduce:transition-none",
+        "style_default__7SzNF",
+        "bg-brand-black",
+        "text-brand-white",
+        "after:bg-gradient-to-t",
+        "after:from-brand-neutrals-800",
+        "after:to-brand-neutrals-600",
+        "dark:after:from-brand-neutrals-100",
+        "dark:after:to-brand-neutrals-100",
+        "before:bg-[radial-gradient(circle_100px_at_var(--mask-x)_var(--mask-y),_var(--tw-gradient-stops))]",
+        "before:from-brand-neutrals-700",
+        "before:via-15",
+        "before:to-transparent",
+        "dark:before:from-brand-neutrals-200",
+        "after:transition-colors",
+        "after:duration-300",
+        "before:transition-opacity",
+        "before:duration-1000",
+        "hover:before:opacity-100",
+        "before:opacity-0",
+        "before:absolute",
+        "before:inset-0",
+        "md:px-4",
+        "md:py-3.5",
+        "font-mono",
+        "font-semibold",
+        "text-sm/[1.125rem]",
+        "tracking-4"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "size-6",
+        "lg:hidden"
+      ],
+      "name": ""
+    },
+    {
+      "text": "Download forwindows",
+      "type": "button",
+      "id": "",
+      "class": [
+        "group",
+        "relative",
+        "rounded-xl",
+        "p-1",
+        "-outline-offset-2",
+        "border",
+        "border-white/30"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "-m-1",
+        "p-1"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "-m-1",
+        "p-1"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "-m-1",
+        "p-1"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "-m-1",
+        "p-1"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "-m-1",
+        "p-1"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "-m-1",
+        "p-1"
+      ],
+      "name": ""
+    },
+    {
+      "text": "Download For Free",
+      "type": "button",
+      "id": "",
+      "class": [
+        "group",
+        "relative",
+        "rounded-xl",
+        "p-1",
+        "before:absolute",
+        "before:inset-0",
+        "before:z-10",
+        "before:rounded-xl",
+        "before:bg-[linear-gradient(to_top,_#e6e6e600_0%,_#e6e6e6_73%)]",
+        "before:p-px",
+        "dark:before:bg-[linear-gradient(to_top,_#33333300_0%,_#333333_73%)]",
+        "after:absolute",
+        "after:inset-0",
+        "after:z-10",
+        "after:rounded-xl",
+        "after:bg-brand-borders",
+        "after:p-px",
+        "after:transition-opacity",
+        "after:duration-700",
+        "hover:after:opacity-0",
+        "motion-reduce:after:transition-none",
+        "styles_withGradient__9TWCN",
+        "w-fit"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "option-tab",
+        "relative",
+        "z-[2]",
+        "flex",
+        "items-center",
+        "justify-center",
+        "-outline-offset-2",
+        "h-5.5",
+        "text-brand-borders",
+        "hover:text-brand-neutrals-400",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "aspect-square",
+        "p-0"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "option-tab",
+        "relative",
+        "z-[2]",
+        "flex",
+        "items-center",
+        "justify-center",
+        "-outline-offset-2",
+        "h-5.5",
+        "text-brand-borders",
+        "hover:text-brand-neutrals-400",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "aspect-square",
+        "p-0"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "option-tab",
+        "relative",
+        "z-[2]",
+        "flex",
+        "items-center",
+        "justify-center",
+        "-outline-offset-2",
+        "h-5.5",
+        "hover:text-brand-neutrals-400",
+        "text-brand-neutrals-400",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "aspect-square",
+        "p-0"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "option-tab",
+        "relative",
+        "z-[2]",
+        "flex",
+        "items-center",
+        "justify-center",
+        "-outline-offset-2",
+        "h-5.5",
+        "text-brand-borders",
+        "hover:text-brand-neutrals-400",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "aspect-square",
+        "p-0"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "option-tab",
+        "relative",
+        "z-[2]",
+        "flex",
+        "items-center",
+        "justify-center",
+        "-outline-offset-2",
+        "h-5.5",
+        "text-brand-borders",
+        "hover:text-brand-neutrals-400",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "aspect-square",
+        "p-0"
+      ],
+      "name": ""
+    },
+    {
+      "text": "",
+      "type": "button",
+      "id": "",
+      "class": [
+        "option-tab",
+        "relative",
+        "z-[2]",
+        "flex",
+        "items-center",
+        "justify-center",
+        "-outline-offset-2",
+        "h-5.5",
+        "hover:text-brand-neutrals-400",
+        "text-brand-neutrals-400",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "aspect-square",
+        "p-0"
+      ],
+      "name": ""
+    },
+    {
+      "text": "Download",
+      "type": "button",
+      "id": "",
+      "class": [
+        "relative",
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "whitespace-nowrap",
+        "rounded-lg",
+        "uppercase",
+        "disabled:pointer-events-none",
+        "disabled:opacity-50",
+        "overflow-hidden",
+        "transition-colors",
+        "after:absolute",
+        "after:inset-0",
+        "motion-reduce:transition-none",
+        "style_default__7SzNF",
+        "bg-brand-black",
+        "text-brand-white",
+        "after:bg-gradient-to-t",
+        "after:from-brand-neutrals-800",
+        "after:to-brand-neutrals-600",
+        "dark:after:from-brand-neutrals-100",
+        "dark:after:to-brand-neutrals-100",
+        "before:bg-[radial-gradient(circle_100px_at_var(--mask-x)_var(--mask-y),_var(--tw-gradient-stops))]",
+        "before:from-brand-neutrals-700",
+        "before:via-15",
+        "before:to-transparent",
+        "dark:before:from-brand-neutrals-200",
+        "after:transition-colors",
+        "after:duration-300",
+        "before:transition-opacity",
+        "before:duration-1000",
+        "hover:before:opacity-100",
+        "before:opacity-0",
+        "before:absolute",
+        "before:inset-0",
+        "p-3",
+        "md:px-4",
+        "md:py-3.5",
+        "font-mono",
+        "font-semibold",
+        "text-sm/[1rem]",
+        "md:text-base/[1.125rem]",
+        "tracking-2",
+        "w-full"
+      ],
+      "name": ""
+    }
+  ],
+  "inputs": [],
+  "links": [
+    {
+      "text": "",
+      "href": "/",
+      "id": "",
+      "class": [
+        "relative",
+        "flex",
+        "w-fit",
+        "items-center",
+        "gap-0.5",
+        "overflow-hidden",
+        "lg:px-3"
+      ]
+    },
+    {
+      "text": "Pricing",
+      "href": "/pricing",
+      "id": "",
+      "class": [
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Features",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Blog",
+      "href": "/blog",
+      "id": "",
+      "class": [
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Forum",
+      "href": "https://forum.cursor.com",
+      "id": "",
+      "class": [
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.cursor.com/get-started/migrate-from-vscode",
+      "id": "",
+      "class": [
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Careers",
+      "href": "https://anysphere.inc",
+      "id": "",
+      "class": [
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Sign In",
+      "href": "/api/auth/login",
+      "id": "",
+      "class": [
+        "relative",
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "whitespace-nowrap",
+        "rounded-lg",
+        "uppercase",
+        "disabled:pointer-events-none",
+        "disabled:opacity-50",
+        "overflow-hidden",
+        "transition-colors",
+        "before:absolute",
+        "before:-inset-0",
+        "after:absolute",
+        "after:inset-0",
+        "motion-reduce:transition-none",
+        "style_secondary__r9SkX",
+        "bg-brand-white",
+        "text-brand-black",
+        "border",
+        "border-brand-neutrals-100",
+        "dark:border-brand-neutrals-800",
+        "hover:!border-brand-gray-400",
+        "after:transition-colors",
+        "after:duration-300",
+        "md:px-4",
+        "md:py-3.5",
+        "font-mono",
+        "font-semibold",
+        "text-sm/[1.125rem]",
+        "tracking-4"
+      ]
+    },
+    {
+      "text": "See more features",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "relative",
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "whitespace-nowrap",
+        "rounded-lg",
+        "uppercase",
+        "disabled:pointer-events-none",
+        "disabled:opacity-50",
+        "overflow-hidden",
+        "transition-colors",
+        "after:absolute",
+        "after:inset-0",
+        "motion-reduce:transition-none",
+        "style_default__7SzNF",
+        "bg-brand-black",
+        "text-brand-white",
+        "after:bg-gradient-to-t",
+        "after:from-brand-neutrals-800",
+        "after:to-brand-neutrals-600",
+        "dark:after:from-brand-neutrals-100",
+        "dark:after:to-brand-neutrals-100",
+        "before:bg-[radial-gradient(circle_100px_at_var(--mask-x)_var(--mask-y),_var(--tw-gradient-stops))]",
+        "before:from-brand-neutrals-700",
+        "before:via-15",
+        "before:to-transparent",
+        "dark:before:from-brand-neutrals-200",
+        "after:transition-colors",
+        "after:duration-300",
+        "before:transition-opacity",
+        "before:duration-1000",
+        "hover:before:opacity-100",
+        "before:opacity-0",
+        "before:absolute",
+        "before:inset-0",
+        "p-3",
+        "md:px-4",
+        "md:py-3.5",
+        "font-mono",
+        "font-semibold",
+        "text-sm/[1rem]",
+        "md:text-base/[1.125rem]",
+        "tracking-2",
+        "w-fit"
+      ]
+    },
+    {
+      "text": "Frontier IntelligencePowered by a mix of purpose-built and frontier models, Cursor is smart and fast.",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "rounded-lg",
+        "border",
+        "border-brand-borders",
+        "bg-white",
+        "dark:bg-brand-medium-black",
+        "md:rounded-2xl",
+        "relative",
+        "flex",
+        "h-full",
+        "flex-col",
+        "justify-between"
+      ]
+    },
+    {
+      "text": "Private and SecureWith Privacy Mode, your code is only stored locally. Cursor is SOC 2 certified.",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "rounded-lg",
+        "border",
+        "border-brand-borders",
+        "bg-white",
+        "dark:bg-brand-medium-black",
+        "md:rounded-2xl",
+        "relative",
+        "flex",
+        "h-full",
+        "flex-col",
+        "justify-between"
+      ]
+    },
+    {
+      "text": "Feels FamiliarImport all your extensions, themes, and keybindings in one click.",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "rounded-lg",
+        "border",
+        "border-brand-borders",
+        "bg-white",
+        "dark:bg-brand-medium-black",
+        "md:rounded-2xl",
+        "relative",
+        "flex",
+        "h-full",
+        "flex-col",
+        "justify-between"
+      ]
+    },
+    {
+      "text": "Frontier IntelligencePowered by a mix of purpose-built and frontier models, Cursor is smart and fast.",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "rounded-lg",
+        "border",
+        "border-brand-borders",
+        "bg-white",
+        "dark:bg-brand-medium-black",
+        "md:rounded-2xl",
+        "relative",
+        "flex",
+        "h-full",
+        "flex-col",
+        "justify-between"
+      ]
+    },
+    {
+      "text": "Private and SecureWith Privacy Mode, your code is only stored locally. Cursor is SOC 2 certified.",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "rounded-lg",
+        "border",
+        "border-brand-borders",
+        "bg-white",
+        "dark:bg-brand-medium-black",
+        "md:rounded-2xl",
+        "relative",
+        "flex",
+        "h-full",
+        "flex-col",
+        "justify-between"
+      ]
+    },
+    {
+      "text": "Feels FamiliarImport all your extensions, themes, and keybindings in one click.",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "rounded-lg",
+        "border",
+        "border-brand-borders",
+        "bg-white",
+        "dark:bg-brand-medium-black",
+        "md:rounded-2xl",
+        "relative",
+        "flex",
+        "h-full",
+        "flex-col",
+        "justify-between"
+      ]
+    },
+    {
+      "text": "Keep Reading",
+      "href": "/blog/shadow-workspace",
+      "id": "",
+      "class": [
+        "relative",
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "whitespace-nowrap",
+        "uppercase",
+        "disabled:pointer-events-none",
+        "disabled:opacity-50",
+        "overflow-hidden",
+        "transition-colors",
+        "before:absolute",
+        "before:-inset-0",
+        "after:absolute",
+        "after:inset-0",
+        "motion-reduce:transition-none",
+        "style_secondary__r9SkX",
+        "bg-brand-white",
+        "text-brand-black",
+        "border",
+        "border-brand-neutrals-100",
+        "dark:border-brand-neutrals-800",
+        "hover:!border-brand-gray-400",
+        "after:transition-colors",
+        "after:duration-300",
+        "font-mono",
+        "font-semibold",
+        "text-sm/[1rem]",
+        "md:text-base/[1.125rem]",
+        "tracking-2",
+        "mt-1",
+        "w-fit",
+        "rounded-md",
+        "p-2",
+        "md:px-3",
+        "md:py-2.5"
+      ]
+    },
+    {
+      "text": "hi@cursor.com",
+      "href": "mailto:hi@cursor.com",
+      "id": "",
+      "class": [
+        "external-link",
+        "group",
+        "relative",
+        "inline-flex",
+        "items-center",
+        "transition-colors",
+        "duration-300",
+        "motion-reduce:transition-none",
+        "text-base/[1.125rem]",
+        "text-brand-gray-600",
+        "hover:text-brand-black",
+        "md:text-lg/[1.25rem]",
+        "lg:mt-1"
+      ]
+    },
+    {
+      "text": "Anysphere",
+      "href": "https://anysphere.inc",
+      "id": "",
+      "class": [
+        "external-link",
+        "group",
+        "relative",
+        "inline-flex",
+        "items-center",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-gray-800",
+        "motion-reduce:transition-none"
+      ]
+    },
+    {
+      "text": "Pricing",
+      "href": "/pricing",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Downloads",
+      "href": "/downloads",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Blog",
+      "href": "/blog",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Forum",
+      "href": "https://forum.cursor.com",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Careers",
+      "href": "https://anysphere.inc",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Company",
+      "href": "https://anysphere.inc",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Security",
+      "href": "/security",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Privacy",
+      "href": "/privacy",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Terms",
+      "href": "/terms-of-service",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Changelog",
+      "href": "/changelog",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Twitter",
+      "href": "https://x.com/cursor_ai",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/getcursor/cursor",
+      "id": "",
+      "class": [
+        "group",
+        "flex",
+        "items-center",
+        "gap-1.5"
+      ]
+    },
+    {
+      "text": "Pricing",
+      "href": "/pricing",
+      "id": "",
+      "class": [
+        "text-brand-neutrals-700",
+        "outline-none",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none",
+        "dark:text-brand-neutrals-200"
+      ]
+    },
+    {
+      "text": "Features",
+      "href": "/features",
+      "id": "",
+      "class": [
+        "text-brand-neutrals-700",
+        "outline-none",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none",
+        "dark:text-brand-neutrals-200"
+      ]
+    },
+    {
+      "text": "Blog",
+      "href": "/blog",
+      "id": "",
+      "class": [
+        "text-brand-neutrals-700",
+        "outline-none",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none",
+        "dark:text-brand-neutrals-200"
+      ]
+    },
+    {
+      "text": "Forum",
+      "href": "https://forum.cursor.com",
+      "id": "",
+      "class": [
+        "text-brand-neutrals-700",
+        "outline-none",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none",
+        "dark:text-brand-neutrals-200"
+      ]
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.cursor.com/get-started/migrate-from-vscode",
+      "id": "",
+      "class": [
+        "text-brand-neutrals-700",
+        "outline-none",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none",
+        "dark:text-brand-neutrals-200"
+      ]
+    },
+    {
+      "text": "Careers",
+      "href": "https://anysphere.inc",
+      "id": "",
+      "class": [
+        "text-brand-neutrals-700",
+        "outline-none",
+        "transition-colors",
+        "duration-300",
+        "hover:text-brand-foreground",
+        "motion-reduce:transition-none",
+        "dark:text-brand-neutrals-200"
+      ]
+    },
+    {
+      "text": "Sign In",
+      "href": "/api/auth/login",
+      "id": "",
+      "class": [
+        "relative",
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "whitespace-nowrap",
+        "rounded-lg",
+        "uppercase",
+        "disabled:pointer-events-none",
+        "disabled:opacity-50",
+        "overflow-hidden",
+        "transition-colors",
+        "before:absolute",
+        "before:-inset-0",
+        "after:absolute",
+        "after:inset-0",
+        "motion-reduce:transition-none",
+        "style_secondary__r9SkX",
+        "bg-brand-white",
+        "text-brand-black",
+        "border",
+        "border-brand-neutrals-100",
+        "dark:border-brand-neutrals-800",
+        "hover:!border-brand-gray-400",
+        "after:transition-colors",
+        "after:duration-300",
+        "p-3",
+        "md:px-4",
+        "md:py-3.5",
+        "font-mono",
+        "font-semibold",
+        "text-sm/[1rem]",
+        "md:text-base/[1.125rem]",
+        "tracking-2",
+        "w-full"
+      ]
+    }
+  ],
+  "forms": []
+}
