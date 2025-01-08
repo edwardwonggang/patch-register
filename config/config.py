@@ -6,10 +6,10 @@ import os
 load_dotenv()
 
 # 基础URL配置
-BASE_URL = "https://cursor.sh/"
+BASE_URL = "https://www.cusror.com/"
 
 # 页面元素等待时间配置
-WAIT_TIME = 10
+WAIT_TIME = 20
 CLICK_DELAY = 2
 
 # 图像识别配置
